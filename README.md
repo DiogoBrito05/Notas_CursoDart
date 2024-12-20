@@ -1,1 +1,1 @@
-## Aplicação desenvolvida durante o curso de Dart 
+## Aplicação desenvolvida durante curso de Dart 
